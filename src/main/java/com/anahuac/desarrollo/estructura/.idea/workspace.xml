@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc8acb42-47d4-4dec-a53b-6eaa416ac138" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/AdapterA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/DepA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/DepB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../adapter/IDep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../../../../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../../../../pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../creacional/factory_method/BDR.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../creacional/factory_method/BDR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../creacional/factory_method/CouchDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../creacional/factory_method/CouchDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../creacional/factory_method/DBConnect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../creacional/factory_method/DBConnect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../creacional/factory_method/DBCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../creacional/factory_method/DBCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../creacional/factory_method/MongDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../creacional/factory_method/MongDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../creacional/factory_method/MySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../creacional/factory_method/MySQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../creacional/factory_method/ORACLE.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../creacional/factory_method/ORACLE.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../creacional/factory_method/RepA.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../creacional/factory_method/RepA.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../../../../.." />
+  </component>
+  <component name="ProjectId" id="2LQxa3zoRrWSdc0RqD1WL672hNk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/karla/ProyectoGIT/desarrolloDelaCruz/src/main/java/com/anahuac/desarrollo/estructura/decorator/Model",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc8acb42-47d4-4dec-a53b-6eaa416ac138" name="Changes" comment="" />
+      <created>1675817167841</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675817167841</updated>
+      <workItem from="1675817168941" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
