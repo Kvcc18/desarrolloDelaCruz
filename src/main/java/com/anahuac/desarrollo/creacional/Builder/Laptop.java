@@ -25,24 +25,33 @@ public class Laptop {
 
         public LaptopBuilder() { }
 
-        public void setSsd(String ssd) {
+        public LaptopBuilder ssd (String ssd) {
             this.ssd = ssd;
+            return this;
         }
 
-        public void setRam(String ram) {
+        public  LaptopBuilder ram (String ram) {
             this.ram = ram;
+            return this;
         }
 
-        public void setCpu(String cpu) {
+        public LaptopBuilder cpu (String cpu) {
             this.cpu = cpu;
+            return this;
         }
 
-        public void setTeclado(String teclado) {
+        public LaptopBuilder teclado (String teclado) {
             this.teclado = teclado;
+            return this;
         }
 
-        public void setOs(String os) {
+        public LaptopBuilder os (String os) {
             this.os = os;
+            return this;
+        }
+
+        public Laptop build() {
+            return new Laptop(this);
         }
 
     }
